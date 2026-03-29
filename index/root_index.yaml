@@ -327,3 +327,8 @@ schools:
     name: "桂林信息科技学院"
     initial: "G"
     resource_folder: "GUIT"
+
+  - id: "HIIT"
+    name: "河南信息科技学院"
+    initial: "H"
+    resource_folder: "HIIT"
