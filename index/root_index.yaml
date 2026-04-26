@@ -416,3 +416,8 @@ schools:
     name: "中南民族大学"
     initial: "Z"
     resource_folder: "SCUEC"
+
+  - id: "NUC"
+    name: "中北大学"
+    initial: "Z"
+    resource_folder: "NUC"
