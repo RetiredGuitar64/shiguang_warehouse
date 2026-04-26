@@ -1,0 +1,8 @@
+adapters:
+      - adapter_id: "NUC_01"
+            adapter_name: "中北大学教务系统"
+            category: "BACHELOR_AND_ASSOCIATE"
+            asset_js_path: "nuc_01.js"
+            import_url: "https://zhmh.nuc.edu.cn"
+            maintainer: "https://github.com/RetiredGuitar64/"
+            description: "中北大学教务系统适配"
